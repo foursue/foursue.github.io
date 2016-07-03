@@ -22,6 +22,16 @@ hugoでブログを書いて見るテストです。
     </item>
     
     <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Sat, 02 Jul 2016 23:55:23 +0900</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>&lt;p&gt;どうもどうも。特に書く内容がありません。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>hugoでブログ</title>
       <link>http://replace-this-with-your-hugo-site.com/project/snippet/</link>
       <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>

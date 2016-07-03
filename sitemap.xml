@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>http://replace-this-with-your-hugo-site.com/about/</loc>
+    <lastmod>2016-07-02T23:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://replace-this-with-your-hugo-site.com/project/snippet/</loc>
     <lastmod>2015-10-05T02:24:15+00:00</lastmod>
   </url>
