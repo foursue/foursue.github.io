@@ -6,8 +6,20 @@
     <description>Recent content on Foursue&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 05 Oct 2015 02:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jul 2016 23:55:35 +0900</lastBuildDate>
     <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>こんにちはブログ</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/first_post/</link>
+      <pubDate>Sat, 02 Jul 2016 23:55:35 +0900</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/first_post/</guid>
+      <description>&lt;p&gt;最初の記事です。
+hugoでブログを書いて見るテストです。
+ネタがあまりないので、頑張らないと。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hugoでブログ</title>

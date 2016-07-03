@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meta on Foursue&#39;s blog</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/meta/</link>
-    <description>Recent content in Meta on Foursue&#39;s blog</description>
+    <title>Posts on Foursue&#39;s blog</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <description>Recent content in Posts on Foursue&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 02 Jul 2016 23:55:35 +0900</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>こんにちはブログ</title>
@@ -18,16 +18,6 @@
       <description>&lt;p&gt;最初の記事です。
 hugoでブログを書いて見るテストです。
 ネタがあまりないので、頑張らないと。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>hugoでブログ</title>
-      <link>http://replace-this-with-your-hugo-site.com/project/snippet/</link>
-      <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/project/snippet/</guid>
-      <description>&lt;p&gt;このブログです。&lt;/p&gt;
 </description>
     </item>
     
